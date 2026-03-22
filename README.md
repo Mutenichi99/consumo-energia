@@ -1,5 +1,6 @@
 #  Calculadora de Consumo de Energia
 
+
 ##  Objetivo
 Este projeto tem como objetivo calcular o consumo mensal de energia elétrica de um aparelho e estimar o custo com base no valor do kWh.
 
