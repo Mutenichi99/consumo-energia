@@ -1,16 +1,14 @@
-# ⚡ Calculadora de Consumo de Energia
+#  Calculadora de Consumo de Energia
 
-## 📌 Objetivo
+##  Objetivo
 Este projeto tem como objetivo calcular o consumo mensal de energia elétrica de um aparelho e estimar o custo com base no valor do kWh.
 
----
 
-## 🛠️ Linguagem utilizada
-- 🐍 Python
+##  Linguagem utilizada
+-  Python
 
----
 
-## 📐 Fórmula utilizada
+##  Fórmula utilizada
 O consumo mensal é calculado utilizando a fórmula:
     consumoMensal = (potencia * horasDia * 30) / 1000
 
@@ -23,9 +21,8 @@ Onde:
 O custo estimado é calculado por:
     custo = consumoMensal * preço_kWh
 
----
 
-## 🧪 Exemplo de uso
+##  Exemplo de uso
   - Aparelho: Geladeira  
   - Potência: 150 W  
   - Uso diário: 10 horas  
@@ -34,9 +31,8 @@ Resultado:
   - Consumo mensal: ~45 kWh  
   - Custo estimado: R$ 33,75  
 
----
 
-## 🏷️ Badges
+##  Badges
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
