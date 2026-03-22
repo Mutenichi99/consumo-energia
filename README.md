@@ -1,4 +1,4 @@
-#  Calculadora de Consumo de Energia
+#  ⚡⚡Calculadora de Consumo de Energia⚡⚡
 
 
 ##  Este projeto tem como objetivo calcular o consumo mensal de energia elétrica de um aparelho e estimar o custo com base no valor do kWh.
@@ -31,8 +31,7 @@ Resultado:
   - Custo estimado: R$ 33,75  
 
 
-##  Badges
-
+<br></br>
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 ![Energia](https://img.shields.io/badge/Energia-Consumo-yellow)
